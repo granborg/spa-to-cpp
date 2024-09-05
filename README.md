@@ -77,7 +77,7 @@ Each `FileManifest` contains:
 
 When serving these files, use the `Content-Encoding=gzip` header.
 
-## Integration
+## Example
 
 You can obtain a list of FileManifest objects from webui.h by calling
 
